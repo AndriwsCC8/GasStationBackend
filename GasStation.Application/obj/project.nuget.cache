@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VPWkGfm8UM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andriws\\Desktop\\Sistema De Gestion Backend\\GasStation.Application\\GasStation.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andriws\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
