@@ -166,3 +166,4 @@ C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.API\obj\Debug\net
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.API\obj\Debug\net10.0\GasStation.API.pdb
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.API\obj\Debug\net10.0\GasStation.API.genruntimeconfig.cache
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.API\obj\Debug\net10.0\ref\GasStation.API.dll
+C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.API\obj\Debug\net10.0\GasStation.API.sourcelink.json

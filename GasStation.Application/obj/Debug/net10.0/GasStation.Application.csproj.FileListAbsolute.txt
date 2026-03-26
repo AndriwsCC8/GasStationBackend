@@ -13,3 +13,4 @@ C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Application\obj\D
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Application\obj\Debug\net10.0\refint\GasStation.Application.dll
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Application\obj\Debug\net10.0\GasStation.Application.pdb
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Application\obj\Debug\net10.0\ref\GasStation.Application.dll
+C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Application\obj\Debug\net10.0\GasStation.Application.sourcelink.json

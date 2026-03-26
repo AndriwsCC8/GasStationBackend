@@ -15,3 +15,4 @@ C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Infrastructure\ob
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Infrastructure\obj\Debug\net10.0\refint\GasStation.Infrastructure.dll
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Infrastructure\obj\Debug\net10.0\GasStation.Infrastructure.pdb
 C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Infrastructure\obj\Debug\net10.0\ref\GasStation.Infrastructure.dll
+C:\Users\andriws\Desktop\Sistema De Gestion Backend\GasStation.Infrastructure\obj\Debug\net10.0\GasStation.Infrastructure.sourcelink.json
